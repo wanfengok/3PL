@@ -37,7 +37,7 @@
 
    CREATE SEQUENCE  "TPL_T_STOK_SEQ"  MINVALUE 1 MAXVALUE 999999999999999999999999999 INCREMENT BY 1 START WITH 1 CACHE 20 NOORDER  NOCYCLE ;
 --------------------------------------------------------
---  DDL for Table TPL_M_CUSTOMER
+--  DDL for Table TPL_M_CUSTOMER   点到
 --------------------------------------------------------
 
   CREATE TABLE "TPL_M_CUSTOMER" 
